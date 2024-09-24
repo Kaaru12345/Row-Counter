@@ -1,12 +1,12 @@
 # Row Counter
 
-A simple web app to count and save row entries with an intuitive interface.
+A simple web app to count, save, and reset entries. Perfect for tracking repetitive tasks like counting rows or items.
 
 ## Features
 
-- Increment a counter with a button.
-- Save previous entries.
-- Clean, responsive design.
+- **Increment**: Increase the counter.
+- **Save**: Save the current count as a previous entry.
+- **Reset**: Clear both the current counter and all saved entries.
 
 ## Tech Stack
 
@@ -14,25 +14,16 @@ A simple web app to count and save row entries with an intuitive interface.
 - **CSS**: Styling
 - **JavaScript**: Functionality
 
-## How to Use
+## Getting Started
 
-1. **Clone the repo**:
+1. Clone the repository:
     ```bash
     git clone https://github.com/yourusername/row-counter.git
     ```
-2. **Open** `index.html` in your browser.
+2. Open `index.html` in your browser.
 
 ## Usage
 
-- Click the **INCREMENT** button to increase the counter.
-- Click the **SAVE** button to save the current count, which will be displayed below.
-- The counter resets to zero after saving.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Acknowledgments
-
-- Inspired by various simple web applications.
-- Thank you to the community for their support and resources.
+- Click **INCREMENT** to increase the count.
+- Click **SAVE** to save and reset the count.
+- Click **RESET** to clear everything.
